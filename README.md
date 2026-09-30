@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Aldo839
+# Hello, I'm Aldo839
 
 ### Cybersecurity Student · Full-Stack Developer
 
@@ -8,19 +8,19 @@ I learn by building real-world applications, experimenting with security, and im
 
 ---
 
-## 🎯 What I'm Focusing On
+##  What I'm Focusing On
 
-* 🔐 Application Security & Pentesting
-* ⚙️ Java & Spring Boot
-* ⚛️ React & TypeScript
-* 🗄️ PostgreSQL & Database Design
-* 🤖 Python & AI
-* 🧪 Testing & Software Quality
-* 🐧 Linux & Developer Tools
+*  Application Security & Pentesting
+*  Java & Spring Boot
+*  React & TypeScript
+*  PostgreSQL & Database Design
+*  Python & AI
+*  Testing & Software Quality
+*  Linux & Developer Tools
 
 ---
 
-## 🛠️ Languages & Tools
+##  Languages & Tools
 
 ### Backend
 
@@ -43,13 +43,14 @@ I learn by building real-world applications, experimenting with security, and im
 ### Security
 
 ![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge\&logo=portswigger\&logoColor=white)
+![OWASP](https://img.shields.io/badge/ZAP-000000?style=for-the-badge\&logo=owasp\&logoColor=white)
 ![OWASP](https://img.shields.io/badge/OWASP-000000?style=for-the-badge\&logo=owasp\&logoColor=white)
 
 ---
 
-## 🚀 Featured Projects
+##  Featured Projects
 
-### 🩺 SickleCareAI
+###  SickleCareAI
 
 A healthcare application focused on the follow-up of people living with sickle cell disease, with a focus on **data security, patient/doctor workflows and future AI-based analysis**.
 
@@ -59,7 +60,7 @@ A healthcare application focused on the follow-up of people living with sickle c
 
 ---
 
-### 📦 StockLite
+###  StockLite
 
 A full-stack inventory management application designed to help small businesses manage products, stock entries, stock exits and inventory history.
 
@@ -67,7 +68,7 @@ A full-stack inventory management application designed to help small businesses 
 
 ---
 
-### 🛡️ Security & Pentesting Labs
+###  Security & Pentesting Labs
 
 A collection of practical cybersecurity work focused on:
 
@@ -75,39 +76,13 @@ A collection of practical cybersecurity work focused on:
 * API testing
 * Authentication & authorization
 * Burp Suite
+* Zap
 * OWASP methodology
 * Security testing
 
 ---
 
-## 📚 Currently Learning
-
-```text
-Spring Boot
-├── REST APIs
-├── Security
-├── Database design
-├── JPA / Hibernate
-└── Testing
-
-React
-├── TypeScript
-├── State management
-├── Authentication
-├── API integration
-└── UI architecture
-
-Cybersecurity
-├── Web Pentesting
-├── API Security
-├── OWASP Top 10
-├── Burp Suite
-└── Secure Development
-```
-
----
-
-## 🧪 Engineering Mindset
+##  Engineering Mindset
 
 I try to build projects with a focus on:
 
@@ -121,14 +96,6 @@ I try to build projects with a focus on:
 
 ---
 
-## 📈 GitHub
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=aldo839\&show_icons=true\&hide_border=true\&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aldo839\&layout=compact\&hide_border=true)
-
----
-
-## 🤝 Let's Connect
+##  Let's Connect
 
 I'm interested in **software engineering, cybersecurity, backend development, AI and open-source projects**.
