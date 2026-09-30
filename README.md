@@ -48,26 +48,6 @@ I learn by building real-world applications, experimenting with security, and im
 
 ---
 
-##  Featured Projects
-
-###  SickleCareAI
-
-A healthcare application focused on the follow-up of people living with sickle cell disease, with a focus on **data security, patient/doctor workflows and future AI-based analysis**.
-
-**Tech:** Java · Spring Boot · Spring Security · JWT · PostgreSQL · JPA · JUnit · OpenAPI
-
-[View Project →](https://github.com/aldo839/SickleCareAI)
-
----
-
-###  StockLite
-
-A full-stack inventory management application designed to help small businesses manage products, stock entries, stock exits and inventory history.
-
-**Tech:** React · TypeScript · Spring Boot · PostgreSQL
-
----
-
 ###  Security & Pentesting Labs
 
 A collection of practical cybersecurity work focused on:
