@@ -24,8 +24,8 @@ I learn by building real-world applications, experimenting with security, and im
 
 ### Backend
 
-![Java](https://img.shields.io/badge/Java-17%2B-ED8B00?style=for-the-badge\&logo=openjdk\&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-3.x%2F4.x-6DB33F?style=for-the-badge\&logo=springboot\&logoColor=white)
+![Java](https://img.shields.io/badge/Java-21%2B-ED8B00?style=for-the-badge\&logo=openjdk\&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-4.x%2F4.x-6DB33F?style=for-the-badge\&logo=springboot\&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3.x-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
 
 ### Frontend
@@ -43,7 +43,7 @@ I learn by building real-world applications, experimenting with security, and im
 ### Security
 
 ![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge\&logo=portswigger\&logoColor=white)
-![OWASP](https://img.shields.io/badge/ZAP-000000?style=for-the-badge\&logo=owasp\&logoColor=white)
+![OWASP](https://img.shields.io/badge/ZAP-DF00000?style=for-the-badge\&logo=owasp\&logoColor=white)
 ![OWASP](https://img.shields.io/badge/OWASP-000000?style=for-the-badge\&logo=owasp\&logoColor=white)
 
 ---
