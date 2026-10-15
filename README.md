@@ -1,6 +1,6 @@
-# Hello, I'm Aldo839
+# Hello, I'm Aldo
 
-### Cybersecurity Student · Full-Stack Developer
+### Cybersecurity Student · Junior Full-Stack Developer
 
 I'm a Computer Science student focused on **Cybersecurity and Full-Stack Development**.
 
